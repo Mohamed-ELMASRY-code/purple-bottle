@@ -11,3 +11,10 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+
+
+.App{
+  height: 100vh;
+  background-image:linear-gradient(to right, rgba(239, 205, 250, 0.89), rgb(227, 167, 247), rgb(221, 136, 250), rgb(210, 110, 243));;
+}
